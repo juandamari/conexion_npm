@@ -14,7 +14,7 @@
   "author": "juan david marin juan_da-mari@hotmail.com",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
   "preferGlobal": true
 }
